@@ -1,0 +1,9 @@
+name: WamensLib
+version: '${project.version}'
+main: me.wamens.wamenslib.WamensLib
+api-version: 1.18
+prefix: [ WamensLib ]
+authors: [ Wamens ]
+description: WamensLib
+commands:
+  wamenslib:
